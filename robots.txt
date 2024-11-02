@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ejerairo.github.io/EXl/sitemap_index.txt
+Sitemap: https://ejerairo.github.io/OVp/sitemap_index.txt
+Sitemap: https://ejerairo.github.io/aCP/sitemap_index.txt
+Sitemap: https://ejerairo.github.io/yfE/sitemap_index.txt
